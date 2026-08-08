@@ -30,16 +30,9 @@ The objective was to design a solution that:
 
 ## Project Scope
 
-The proposed application includes:
+The project scope was defined to clarify the key features, deliverables, stakeholders, and limitations of the proposed export document automation app.
 
-- Packing list preparation
-- Commercial invoice preparation
-- Vietnamese customs stamp templates
-- Predefined drop-down selections
-- Mandatory field validation
-- Warning messages for incorrect input
-- Automatic saving of completed documents
-- PDF and Word export
+![Project Scope Statement](Project%20Scope%20Statement.png)
 
 ## User Stories
 
@@ -156,7 +149,33 @@ https://www.figma.com/proto/SLzaTWu6z6nDi8U47pJh18/Export-Docs-Automation-App?no
 
 ### Prototype Screens
 
+## Figma Prototype
 
+The interactive prototype demonstrates the proposed workflow for preparing export documents, managing predefined information, and supporting document processing through a mobile interface.
+
+[View Interactive Figma Prototype](YOUR-FIGMA-LINK-HERE)
+
+### Prototype Screens
+
+#### First Screen
+
+![First Screen](First%20Screen.png)
+
+#### Log In Screen
+
+![Log In Screen](Log%20In%20Screen.png)
+
+#### Home Screen
+
+![Home Screen](Home%20Screen.png)
+
+#### Packing List Screen
+
+![Packing List Screen](Packing%20List%20Screen.png)
+
+#### Setting Screen
+
+![Setting Screen](Setting%20Screen.png)
 
 ## Key Features
 
